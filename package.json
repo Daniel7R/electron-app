@@ -1,0 +1,14 @@
+{
+  "name": "app-electron",
+  "version": "1.0.0",
+  "description": "electron app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ./src/index.js"
+  },
+  "author": "Daniel Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.1"
+  }
+}
